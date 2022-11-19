@@ -1,0 +1,6 @@
+*.o
+*~
+*.elf
+src/*.hex
+fp-info-cache
+kicad/*/*-backups
