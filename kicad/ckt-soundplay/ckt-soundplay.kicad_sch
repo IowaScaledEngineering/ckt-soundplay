@@ -3988,7 +3988,7 @@
     (uuid f21bde2e-cce0-4b46-9a59-fd5887807877)
     (property "Reference" "JP1" (id 0) (at 29.21 59.69 90))
     (property "Value" "DNI" (id 1) (at 34.29 59.69 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 30.734 59.436 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 30.734 59.436 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.75 59.69 0)
@@ -4003,7 +4003,7 @@
     (uuid f739818d-8e21-4bef-a898-6d1456b3054f)
     (property "Reference" "JP2" (id 0) (at 38.1 63.5 90))
     (property "Value" "DNI" (id 1) (at 38.1 68.58 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 38.354 65.024 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 38.354 65.024 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.1 66.04 0)
@@ -4221,10 +4221,10 @@
       (reference "J7") (unit 1) (value "Micro_SD_Card_Det_Hirose_DM3AT") (footprint "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5")
     )
     (path "/f21bde2e-cce0-4b46-9a59-fd5887807877"
-      (reference "JP1") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "JP1") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/f739818d-8e21-4bef-a898-6d1456b3054f"
-      (reference "JP2") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "JP2") (unit 1) (value "DNI") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/01f37484-fd91-42b0-8796-afcce7fc7ce3"
       (reference "L1") (unit 1) (value "4.7uH") (footprint "ISE_UltraLibrarian:MSS6132-xxxMLC")
