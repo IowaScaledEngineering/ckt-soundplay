@@ -5483,7 +5483,7 @@
   (gr_text "VIN" (at 27.005 175.046 270) (layer "F.SilkS") (tstamp 27dfbf1d-5306-45ed-a362-79de32410fca)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "Iowa Scaled Engineering\nCKT-SOUNDPLAY v1.1\n©2023   CC BY-SA" (at 75.438 164.719) (layer "F.SilkS") (tstamp 59496623-7f20-48e5-988a-242eee5a3697)
+  (gr_text "Iowa Scaled Engineering\nCKT-SOUNDPLAY v1.2\n©2023   CC BY-SA" (at 75.438 164.719) (layer "F.SilkS") (tstamp 59496623-7f20-48e5-988a-242eee5a3697)
     (effects (font (size 1 1) (thickness 0.15)) (justify right))
   )
   (gr_text "GND" (at 27.005 180.126 270) (layer "F.SilkS") (tstamp 7258172f-1bad-43b1-b35e-de742516fa5d)
