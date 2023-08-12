@@ -1636,7 +1636,7 @@
   (gr_text "IN4" (at 191.099 61.087 90) (layer "F.SilkS") (tstamp 450f8722-dc9a-4db6-8eb0-29a99cbd36ba)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "Iowa Scaled Engineering\nCKT-SOUNDPLAY-TEST  v1.0\n" (at 139.065 54.737) (layer "F.SilkS") (tstamp 5e234463-59b7-4765-9a6a-c57d7489bb28)
+  (gr_text "Iowa Scaled Engineering\nCKT-SOUNDPLAY-TEST  v1.2\n" (at 139.065 54.737) (layer "F.SilkS") (tstamp 5e234463-59b7-4765-9a6a-c57d7489bb28)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "- + S" (at 121.285 111.506) (layer "F.SilkS") (tstamp 740e1630-e121-4f5f-b83b-8b00b6515f7c)
