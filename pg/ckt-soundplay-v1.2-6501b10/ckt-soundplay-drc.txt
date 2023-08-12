@@ -1,0 +1,10 @@
+** Drc report for /tank/data/design/projects/ckt-soundplay/kicad/ckt-soundplay/ckt-soundplay.kicad_pcb **
+** Created on 2023-08-12 13:43:57 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
