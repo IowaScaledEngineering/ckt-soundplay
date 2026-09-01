@@ -1,0 +1,3 @@
+#!/bin/bash
+
+kikit panelize -p ckt-soundplay-array.json ckt-soundplay.kicad_pcb ckt-soundplay-array.kicad_pcb
