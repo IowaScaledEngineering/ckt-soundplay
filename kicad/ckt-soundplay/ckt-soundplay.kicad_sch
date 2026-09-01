@@ -11011,12 +11011,14 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 17.78 134.62 0)
+		(property "Description" "CONN RCPT USB2.0 MINI B SMD R/A"
+			(at 22.86 109.22 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Digi-Key_PN" "151-1206-1-ND"
@@ -11071,16 +11073,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/edac-inc/690-005-299-043/151-1206-1-ND/4312192"
 			(at 22.86 111.76 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "CONN RCPT USB2.0 MINI B SMD R/A"
-			(at 22.86 109.22 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11723,12 +11715,14 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 264.16 58.42 0)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
+			(at 269.24 33.02 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Digi-Key_PN" "450-1759-1-ND"
@@ -11783,16 +11777,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/te-connectivity-alcoswitch-switches/FSM4JSMATR/450-1759-1-ND/2271638"
 			(at 269.24 35.56 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
-			(at 269.24 33.02 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12215,7 +12199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ISE_UltraLibrarian:21-0136I_T1633-4_MXM"
+		(property "Footprint" "Package_DFN_QFN:TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm"
 			(at 231.14 105.664 0)
 			(effects
 				(font
@@ -13515,12 +13499,14 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 264.16 73.66 0)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
+			(at 269.24 48.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Digi-Key_PN" "450-1759-1-ND"
@@ -13575,16 +13561,6 @@
 		)
 		(property "DK_Detail_Page" "/product-detail/en/te-connectivity-alcoswitch-switches/FSM4JSMATR/450-1759-1-ND/2271638"
 			(at 269.24 50.8 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
-			(at 269.24 48.26 0)
 			(effects
 				(font
 					(size 1.524 1.524)
