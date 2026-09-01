@@ -17512,7 +17512,7 @@
 			)
 		)
 	)
-	(gr_text "Iowa Scaled Engineering\nCKT-SOUNDPLAY v1.2A\n©2026   CC BY-SA"
+	(gr_text "Iowa Scaled Engineering\nCKT-SOUNDPLAY v1.3\n©2026   CC BY-SA"
 		(at 75.438 164.719 0)
 		(layer "F.SilkS")
 		(uuid "59496623-7f20-48e5-988a-242eee5a3697")
